@@ -21,7 +21,7 @@ To run this application, you need to have the following installed on your system
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/capolcus/SDD-HSC-AT2
-   cd anatomy-app
+   cd SDD code
    ```
 
 2. **Install the required packages**:
@@ -48,7 +48,7 @@ project-directory/
 
 1. **Navigate to the project directory**:
    ```sh
-   cd anatomy-app
+   cd SDD code
    ```
 
 2. **Run the application**:
@@ -83,9 +83,6 @@ project-directory/
 2. Select a text size.
 3. Apply the changes.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
