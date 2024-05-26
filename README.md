@@ -20,8 +20,8 @@ To run this application, you need to have the following installed on your system
 
 1. **Clone the repository**:
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/capolcus/SDD-HSC-AT2
+   cd anatomy-app
    ```
 
 2. **Install the required packages**:
@@ -48,7 +48,7 @@ project-directory/
 
 1. **Navigate to the project directory**:
    ```sh
-   cd <repository-directory>
+   cd anatomy-app
    ```
 
 2. **Run the application**:
