@@ -89,7 +89,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or issues, please contact [your-email@example.com].
+For any questions or issues, please contact [ashutosh.pokharel@eduaction.nsw.gov.au].
 
 ---
 
