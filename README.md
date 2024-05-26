@@ -1,7 +1,4 @@
 # SDD-HSC-AT2
-Here is a README template that provides the necessary information to run the provided code, including step-by-step instructions.
-
----
 
 # Ashu's Anatomy App
 
