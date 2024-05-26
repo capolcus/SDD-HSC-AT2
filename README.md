@@ -18,10 +18,9 @@ To run this application, you need to have the following installed on your system
 
 ## Installation
 
-1. **Clone the repository**:
+1. **Download "SDD Code**:
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   Extract and make sure its in one folder
    ```
 
 2. **Install the required packages**:
@@ -91,6 +90,4 @@ This project is licensed under the MIT License.
 
 For any questions or issues, please contact [ashutosh.pokharel@eduaction.nsw.gov.au].
 
----
 
-Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the directory name where the project is cloned. Also, update the contact email address with your actual email address. This README template covers the basic requirements and provides a clear guide to setting up and running the application.
