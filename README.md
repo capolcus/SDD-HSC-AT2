@@ -18,9 +18,10 @@ To run this application, you need to have the following installed on your system
 
 ## Installation
 
-1. **Download "SDD Code"**:
+1. **Clone the repository**:
    ```sh
-   Extract and make sure its in one folder
+   git clone <repository-url>
+   cd <repository-directory>
    ```
 
 2. **Install the required packages**:
